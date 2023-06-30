@@ -3,13 +3,6 @@ Case Studies on ChatGPT in Shipping Logistics Management
 
 ChatGPT is an advanced language model developed by OpenAI that can generate human-like responses to a wide range of queries. In this chapter, we provide an introduction to ChatGPT and explore case studies on its use in shipping logistics management.
 
-Introduction to ChatGPT
------------------------
-
-ChatGPT is based on the transformer architecture, which allows it to understand context and generate appropriate responses to a wide range of queries. It has been trained on a large corpus of text data, enabling it to generate responses that are natural-sounding and relevant.
-
-In shipping logistics management, ChatGPT can be used to automate routine tasks, provide real-time assistance to customers and suppliers, and improve efficiency.
-
 Case Studies on ChatGPT in Shipping Logistics Management
 --------------------------------------------------------
 
