@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Shipping Logistics Management
-================================================================================================================================================================
+
 
 The use of chatbots and AI in shipping logistics management is constantly evolving, with new trends and directions emerging. In this chapter, we explore some of the emerging trends and directions in chatbots and AI in shipping logistics management.
 

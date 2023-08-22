@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Shipping Logistics Management
-==========================================================================================================================================
+
 
 As the shipping industry continues to grow, more logistics companies are turning to chatbots and AI to streamline their operations. While these technologies offer many benefits, they also come with challenges and limitations that must be carefully considered.
 

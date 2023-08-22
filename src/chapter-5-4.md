@@ -1,5 +1,4 @@
-Case Studies Demonstrating ChatGPT's Effectiveness in Improving Shipping Logistics Management
-============================================================================================================================================================
+
 
 In this chapter, we will discuss how ChatGPT improves shipping logistics management. We will focus on case studies that demonstrate the effectiveness of ChatGPT in improving communication and coordination among different stakeholders involved in shipping logistics management.
 

@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 Shipping logistics management is a complex and challenging process that involves numerous limitations and challenges. These include the lack of visibility and control over the supply chain, reliance on manual processes, globalization of trade, cost management, supply chain disruptions, environmental regulations, and customer expectations.
 

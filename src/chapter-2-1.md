@@ -1,5 +1,4 @@
-What is Shipping Logistics Management?
-==============================================================================================
+
 
 Shipping logistics management refers to the planning, execution, and control of the movement of goods from one place to another. It involves coordinating various activities, including selecting carriers and routes, managing inventory, tracking shipments, and coordinating with suppliers and customers.
 

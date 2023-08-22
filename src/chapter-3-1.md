@@ -1,5 +1,4 @@
-An Overview of Chatbots and AI in Shipping Logistics Management
-============================================================================================================================
+
 
 Chatbots and artificial intelligence (AI) are becoming increasingly prevalent in shipping logistics management. These technologies can be used to automate routine tasks, provide real-time assistance to customers and suppliers, and improve efficiency. In this chapter, we provide an overview of chatbots and AI in shipping logistics management.
 

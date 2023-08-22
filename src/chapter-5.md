@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Improves Shipping Logistics Management
-=============================================================
+
 
 In this chapter, we explore how ChatGPT can improve shipping logistics management. We discuss how ChatGPT works in shipping logistics management, the personalization techniques used, and how it uses data to improve operations. We also provide case studies that demonstrate ChatGPT's effectiveness in improving shipping logistics management.
 

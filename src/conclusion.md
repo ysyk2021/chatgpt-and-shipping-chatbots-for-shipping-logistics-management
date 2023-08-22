@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored the use of chatbots and artificial intelligence (AI) in shipping logistics management. We have discussed the history and evolution of shipping logistics management, the types of techniques used today, and the advantages and disadvantages of using chatbots and AI in this context.
 

@@ -1,5 +1,4 @@
-How ChatGPT Works in Shipping Logistics Management
-=================================================================================================================
+
 
 ChatGPT can be used in shipping logistics management to automate routine tasks, provide real-time assistance to customers and suppliers, and improve efficiency. It works by using natural language processing (NLP) algorithms to understand user queries and generate appropriate responses.
 

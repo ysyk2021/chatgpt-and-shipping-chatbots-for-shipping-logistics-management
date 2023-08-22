@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 What is ChatGPT?
 ----------------

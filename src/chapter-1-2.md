@@ -1,5 +1,4 @@
-Background Information on Shipping Logistics Management and the Role of Chatbots
-==============================================================================================
+
 
 Shipping logistics management is a complex process that involves the coordination of various activities involved in the transportation of goods. These activities include planning and scheduling shipments, selecting carriers and routes, managing inventory, tracking shipments, coordinating with suppliers and customers, and handling customs procedures and regulations.
 

@@ -1,5 +1,4 @@
-The Features of ChatGPT
-===========================================================
+
 
 In this chapter, we will discuss the features of ChatGPT, an advanced chatbot technology that uses deep learning algorithms to generate natural language text. ChatGPT has several features that make it a powerful tool for shipping logistics management.
 

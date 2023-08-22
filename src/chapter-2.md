@@ -1,5 +1,4 @@
-Chapter 1: Understanding Shipping Logistics Management
-======================================================
+
 
 Shipping logistics management is a complex process that involves the planning, execution, and control of the movement of goods from one place to another. In this chapter, we explore what shipping logistics management is, its history and evolution, the types of techniques used today, and its limitations and challenges.
 

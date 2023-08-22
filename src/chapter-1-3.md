@@ -1,5 +1,4 @@
-Importance of Using ChatGPT in Shipping Logistics Management
-==========================================================================
+
 
 Chatbots have become increasingly popular in the shipping logistics management industry due to their ability to automate routine tasks, provide real-time assistance, and improve efficiency. However, traditional chatbots often struggle to handle complex queries and understand context accurately.
 

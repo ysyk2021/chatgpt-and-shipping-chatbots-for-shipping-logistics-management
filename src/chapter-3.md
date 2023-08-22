@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Shipping Logistics Management
-===========================================================
+
 
 Chatbots and artificial intelligence (AI) are rapidly transforming the shipping logistics management industry. In this chapter, we provide an overview of chatbots and AI in shipping logistics management, explore their advantages, discuss the types of chatbots used, and examine the challenges and limitations of using chatbots in this context.
 

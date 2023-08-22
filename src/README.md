@@ -1,4 +1,4 @@
-# Introduction
+
 
 The shipping industry is a crucial part of the global economy, with billions of tons of goods transported across the world each year. Shipping logistics management is vital to ensuring that goods are transported efficiently and cost-effectively, while maintaining high levels of customer satisfaction. However, the shipping industry faces several challenges related to communication and coordination among different stakeholders involved in the shipping process.
 

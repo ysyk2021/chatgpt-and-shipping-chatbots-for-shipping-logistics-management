@@ -1,5 +1,4 @@
-Planning and Designing ChatGPT for Shipping Logistics Management
-=======================================================================================================================================
+
 
 In this chapter, we will discuss the implementation of ChatGPT in shipping logistics management. We will focus on planning and designing ChatGPT for shipping logistics management, including the key steps involved in the process.
 

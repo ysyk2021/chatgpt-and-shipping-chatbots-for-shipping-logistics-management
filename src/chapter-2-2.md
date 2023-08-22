@@ -1,5 +1,4 @@
-The History and Evolution of Shipping Logistics Management
-==================================================================================================================
+
 
 Shipping logistics management has a long and complex history, evolving over time to meet the changing needs of trade and commerce. In this chapter, we explore the history and evolution of shipping logistics management.
 

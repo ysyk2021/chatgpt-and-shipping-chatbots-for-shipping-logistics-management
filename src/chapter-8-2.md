@@ -1,5 +1,4 @@
-Implications and Significance of the Study
-======================================================
+
 
 The use of chatbots and artificial intelligence (AI) in shipping logistics management has significant implications and significance for the industry. The potential benefits of using chatbots and AI include improved efficiency, reduced costs, and better service to customers and suppliers. In this book, we have explored the history and evolution of shipping logistics management, the types of techniques used today, and the advantages and disadvantages of using chatbots and AI in this context.
 

@@ -1,5 +1,4 @@
-Types of Chatbots Used in Shipping Logistics Management
-====================================================================================================================
+
 
 Chatbots are becoming increasingly popular in shipping logistics management. These intelligent conversational agents are designed to help logistics companies automate their operations, improve customer service, and reduce costs. In this chapter, we will explore the different types of chatbots used in shipping logistics management.
 

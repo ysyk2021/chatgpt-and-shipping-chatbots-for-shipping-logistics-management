@@ -1,5 +1,4 @@
-Types of Shipping Logistics Management Techniques Used Today
-====================================================================================================================
+
 
 Shipping logistics management is a complex process that involves the planning, execution, and control of the movement of goods from one place to another. In this chapter, we explore the types of shipping logistics management techniques used today.
 
