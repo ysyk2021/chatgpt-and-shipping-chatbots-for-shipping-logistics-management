@@ -1,5 +1,4 @@
 
-
 Implementing a chatbot like ChatGPT in shipping logistics management can greatly streamline communication and improve efficiency. However, it's important to properly train ChatGPT and manage conversations to ensure accurate and effective communication. In this chapter, we will discuss the implementation of ChatGPT in shipping logistics management, including training ChatGPT and managing conversations.
 
 Training ChatGPT

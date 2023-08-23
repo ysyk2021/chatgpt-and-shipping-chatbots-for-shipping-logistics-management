@@ -1,5 +1,4 @@
 
-
 Shipping logistics management refers to the planning, execution, and control of the movement of goods from one place to another. It involves coordinating various activities, including selecting carriers and routes, managing inventory, tracking shipments, and coordinating with suppliers and customers.
 
 The goal of shipping logistics management is to ensure that goods are delivered to their destination in a timely and cost-effective manner. This requires careful planning and coordination of resources, including transportation, storage, and personnel.

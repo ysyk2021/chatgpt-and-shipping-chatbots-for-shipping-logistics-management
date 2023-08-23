@@ -1,5 +1,4 @@
 
-
 Implementing ChatGPT in shipping logistics management requires careful planning and design, integration with existing systems, training and managing conversations, and evaluating performance and effectiveness.
 
 Planning and Designing ChatGPT for Shipping Logistics Management

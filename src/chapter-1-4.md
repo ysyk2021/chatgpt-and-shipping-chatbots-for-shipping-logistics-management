@@ -1,5 +1,4 @@
 
-
 The shipping logistics management industry is complex and constantly evolving, with increasing demands for efficiency, cost savings, and improved customer service. The use of chatbots and artificial intelligence (AI) in this context offers significant potential for addressing these challenges, but also comes with its own set of limitations and challenges.
 
 The objective of this book is to provide a comprehensive overview of chatbots and AI in shipping logistics management. We will explore the history and evolution of shipping logistics management, the types of techniques used today, and the advantages and disadvantages of using chatbots and AI in this context.

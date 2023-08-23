@@ -1,5 +1,4 @@
 
-
 ChatGPT is an advanced language model developed by OpenAI that can generate human-like responses to a wide range of queries. In this chapter, we provide an introduction to ChatGPT and explore case studies on its use in shipping logistics management.
 
 Case Studies on ChatGPT in Shipping Logistics Management

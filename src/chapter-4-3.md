@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce ChatGPT and discuss the advantages of using ChatGPT in shipping logistics management. ChatGPT is a state-of-the-art chatbot technology that uses deep learning algorithms to generate human-like responses to user queries. ChatGPT has several advantages over traditional chatbots in terms of accuracy, speed, and scalability.
 
 There are several advantages of using ChatGPT in shipping logistics management, including:

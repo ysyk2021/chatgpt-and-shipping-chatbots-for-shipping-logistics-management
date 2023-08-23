@@ -1,5 +1,4 @@
 
-
 Personalization is a key aspect of chatbots in shipping logistics management. By tailoring responses to individual users, chatbots can provide more accurate and relevant information, improving the user's experience and increasing satisfaction. In this chapter, we explore the personalization techniques used in ChatGPT for shipping logistics management.
 
 User Profiling

@@ -1,5 +1,4 @@
 
-
 ChatGPT can be used in shipping logistics management to automate routine tasks, provide real-time assistance to customers and suppliers, and improve efficiency. It works by using natural language processing (NLP) algorithms to understand user queries and generate appropriate responses.
 
 In shipping logistics management, ChatGPT can be used to answer queries about shipment status, schedules, rates, and other relevant information. It can also assist with booking shipments, tracking shipments in real-time, and coordinating with suppliers and customers.
