@@ -12,3 +12,7 @@ Throughout the book, readers will gain a comprehensive understanding of the key 
 Whether you are a shipping logistics professional, a business owner, or a technology enthusiast interested in the application of AI in the shipping industry, this book will provide you with valuable insights and practical knowledge. By the end of the book, readers will have a solid grasp of the latest techniques and technologies used in AI-powered shipping logistics management, and will be able to apply this knowledge to their own work to improve the efficiency and customer experience of shipping logistics services.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
